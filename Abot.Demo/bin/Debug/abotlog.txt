@@ -1,0 +1,103 @@
+[2018-03-21 11:06:16,272] [1  ] [INFO ] - About to crawl site [http://mssz.cn/newweb/index.jsp]
+[2018-03-21 11:06:16,299] [1  ] [INFO ] - Configuration Values:
+[2018-03-21 11:06:16,299] [1  ] [INFO ] -   Abot Version: 1.5.0.0
+[2018-03-21 11:06:16,300] [1  ] [INFO ] -   MaxConcurrentThreads: 1
+[2018-03-21 11:06:16,300] [1  ] [INFO ] -   MaxPagesToCrawl: 100
+[2018-03-21 11:06:16,300] [1  ] [INFO ] -   MaxPagesToCrawlPerDomain: 0
+[2018-03-21 11:06:16,300] [1  ] [INFO ] -   MaxPageSizeInBytes: 0
+[2018-03-21 11:06:16,301] [1  ] [INFO ] -   UserAgentString: Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
+[2018-03-21 11:06:16,301] [1  ] [INFO ] -   CrawlTimeoutSeconds: 0
+[2018-03-21 11:06:16,301] [1  ] [INFO ] -   IsUriRecrawlingEnabled: False
+[2018-03-21 11:06:16,301] [1  ] [INFO ] -   IsExternalPageCrawlingEnabled: False
+[2018-03-21 11:06:16,301] [1  ] [INFO ] -   IsExternalPageLinksCrawlingEnabled: False
+[2018-03-21 11:06:16,302] [1  ] [INFO ] -   IsRespectUrlNamedAnchorOrHashbangEnabled: False
+[2018-03-21 11:06:16,302] [1  ] [INFO ] -   DownloadableContentTypes: text/html, text/plain
+[2018-03-21 11:06:16,302] [1  ] [INFO ] -   HttpServicePointConnectionLimit: 200
+[2018-03-21 11:06:16,302] [1  ] [INFO ] -   HttpRequestTimeoutInSeconds: 15
+[2018-03-21 11:06:16,302] [1  ] [INFO ] -   HttpRequestMaxAutoRedirects: 7
+[2018-03-21 11:06:16,303] [1  ] [INFO ] -   IsHttpRequestAutoRedirectsEnabled: True
+[2018-03-21 11:06:16,303] [1  ] [INFO ] -   IsHttpRequestAutomaticDecompressionEnabled: False
+[2018-03-21 11:06:16,303] [1  ] [INFO ] -   IsSendingCookiesEnabled: False
+[2018-03-21 11:06:16,303] [1  ] [INFO ] -   IsSslCertificateValidationEnabled: False
+[2018-03-21 11:06:16,303] [1  ] [INFO ] -   MinAvailableMemoryRequiredInMb: 0
+[2018-03-21 11:06:16,303] [1  ] [INFO ] -   MaxMemoryUsageInMb: 0
+[2018-03-21 11:06:16,303] [1  ] [INFO ] -   MaxMemoryUsageCacheTimeInSeconds: 0
+[2018-03-21 11:06:16,303] [1  ] [INFO ] -   MaxCrawlDepth: 100
+[2018-03-21 11:06:16,304] [1  ] [INFO ] -   MaxLinksPerPage: 1000
+[2018-03-21 11:06:16,304] [1  ] [INFO ] -   IsForcedLinkParsingEnabled: False
+[2018-03-21 11:06:16,305] [1  ] [INFO ] -   MaxRetryCount: 0
+[2018-03-21 11:06:16,305] [1  ] [INFO ] -   MinRetryDelayInMilliseconds: 0
+[2018-03-21 11:06:16,305] [1  ] [INFO ] -   IsRespectRobotsDotTextEnabled: False
+[2018-03-21 11:06:16,306] [1  ] [INFO ] -   IsRespectMetaRobotsNoFollowEnabled: False
+[2018-03-21 11:06:16,307] [1  ] [INFO ] -   IsRespectHttpXRobotsTagHeaderNoFollowEnabled: False
+[2018-03-21 11:06:16,307] [1  ] [INFO ] -   IsRespectAnchorRelNoFollowEnabled: False
+[2018-03-21 11:06:16,307] [1  ] [INFO ] -   IsIgnoreRobotsDotTextIfRootDisallowedEnabled: False
+[2018-03-21 11:06:16,308] [1  ] [INFO ] -   RobotsDotTextUserAgentString: abot
+[2018-03-21 11:06:16,308] [1  ] [INFO ] -   MinCrawlDelayPerDomainMilliSeconds: 1000
+[2018-03-21 11:06:16,308] [1  ] [INFO ] -   MaxRobotsDotTextCrawlDelayInSeconds: 5
+[2018-03-21 11:06:16,309] [1  ] [INFO ] -   IsAlwaysLogin: False
+[2018-03-21 11:06:16,309] [1  ] [INFO ] -   LoginUser: 
+[2018-03-21 11:06:16,310] [1  ] [INFO ] -   LoginPassword: 
+[2018-03-21 11:06:16,312] [1  ] [INFO ] -   key1: value1
+[2018-03-21 11:06:16,313] [1  ] [INFO ] -   key2: value2
+[2018-03-21 11:06:16,320] [1  ] [INFO ] - ShouldCrawlPage True  http://mssz.cn/newweb/index.jsp
+[2018-03-21 11:06:16,341] [3  ] [INFO ] - crawler_ProcessPageCrawlStarting http://mssz.cn/newweb/index.jsp
+[2018-03-21 11:06:16,543] [1  ] [INFO ] - ShouldDownloadPageContent True  http://mssz.cn/newweb/index.jsp
+[2018-03-21 11:06:17,172] [1  ] [INFO ] - Page crawl complete, Status:[200] Url:[http://mssz.cn/newweb/index.jsp] Elapsed:[58.9919] Parent:[http://mssz.cn/newweb/index.jsp] Retry:[0]
+[2018-03-21 11:06:17,177] [1  ] [INFO ] - ShouldCrawlPageLinks http://mssz.cn/newweb/index.jsp
+[2018-03-21 11:06:17,180] [4  ] [INFO ] - crawler_PageLinksCrawlDisallowed http://mssz.cn/newweb/index.jsp
+[2018-03-21 11:06:17,184] [1  ] [INFO ] - crawler_ProcessPageCrawlCompleted http://mssz.cn/newweb/index.jsp
+[2018-03-21 11:06:18,215] [1  ] [INFO ] - GetPriceUri:  http://mssz.cn/newweb/news.jsp?id=149157&tid=10301
+[2018-03-21 11:06:18,225] [7  ] [INFO ] - crawler_ProcessPageCrawlStarting http://mssz.cn/newweb/news.jsp?id=149157&tid=10301
+[2018-03-21 11:06:18,235] [1  ] [INFO ] - ShouldDownloadPageContent True  http://mssz.cn/newweb/news.jsp?id=149157&tid=10301
+[2018-03-21 11:06:18,264] [1  ] [INFO ] - Page crawl complete, Status:[200] Url:[http://mssz.cn/newweb/news.jsp?id=149157&tid=10301] Elapsed:[10.0085] Parent:[] Retry:[0]
+[2018-03-21 11:06:18,264] [1  ] [INFO ] - crawler_ProcessPageCrawlCompleted http://mssz.cn/newweb/news.jsp?id=149157&tid=10301
+[2018-03-21 11:06:18,264] [3  ] [INFO ] - crawler_PageLinksCrawlDisallowed http://mssz.cn/newweb/news.jsp?id=149157&tid=10301
+[2018-03-21 11:06:18,292] [1  ] [INFO ] - Price:  ´óÖÚ¾¬Ã× 2.40  Çà²Ë 2.90  
+[2018-03-21 11:06:18,292] [1  ] [INFO ] - Price:  ÖÐµÈ¾¬Ã× 2.80  °ü²Ë 2.80  
+[2018-03-21 11:06:18,293] [1  ] [INFO ] - Price:  ÌØµÈ¾¬Ã× 3.60  ¼¦Ã«²Ë 3.40  
+[2018-03-21 11:06:18,295] [1  ] [INFO ] - Price:  ÂÌ¶¹ 6.20  ºúÂÜ²· 3.30  
+[2018-03-21 11:06:18,296] [1  ] [INFO ] - Price:  ³à¶¹ 6.00  »Æ¶¹Ñ¿ 2.90  
+[2018-03-21 11:06:18,296] [1  ] [INFO ] - Price:  »Æ¶¹ 3.60  ÂÌ¶¹Ñ¿ 2.70  
+[2018-03-21 11:06:18,297] [1  ] [INFO ] - Price:  Ãæ·Û£¨ÌØÒ»£© 2.90  ÍÁ¶¹ 2.60  
+[2018-03-21 11:06:18,297] [1  ] [INFO ] - Price:  Ãæ·Û£¨ÌØ¶þ£© 2.50  ´óËâÒ¶ÖÐ 3.80  
+[2018-03-21 11:06:18,298] [1  ] [INFO ] - Price:  ¹ÒÃæ 3.20  ¾Â²Ë 3.20  
+[2018-03-21 11:06:18,298] [1  ] [INFO ] - Price:  ÉúÃæ 2.90  ¾ÂÑ¿ 5.50  
+[2018-03-21 11:06:18,298] [1  ] [INFO ] - Price:  Æ¤×Ó 3.00  ´ºËñ 7.30  
+[2018-03-21 11:06:18,299] [1  ] [INFO ] - Price:  ½ðÁúÓãµÚ¶þ´úÊ³ÓÃµ÷ºÍÓÍ 53.50  ¶¬Ëñ 7.40  
+[2018-03-21 11:06:18,299] [1  ] [INFO ] - Price:  ½ðÁúÓã´ó¶¹ÓÍ 47.80  Ã«¶¹ 7.40  
+[2018-03-21 11:06:18,300] [1  ] [INFO ] - Price:  ²ËÓÍ 7.00  Çà½· 4.30  
+[2018-03-21 11:06:18,300] [1  ] [INFO ] - Price:  ¶¹ÓÍ 0.00  °×ÂÜ²· 1.80  
+[2018-03-21 11:06:18,301] [1  ] [INFO ] - Price:  ÍÈÈâ 14.40  ²¤ ²Ë 3.50  
+[2018-03-21 11:06:18,303] [1  ] [INFO ] - Price:  ¼ÐÐÄ 14.20  Ë®ÇÛ 3.90  
+[2018-03-21 11:06:18,305] [1  ] [INFO ] - Price:  ÀßÌõ 16.10  Ò©ÇÛ 3.60  
+[2018-03-21 11:06:18,305] [1  ] [INFO ] - Price:  ´óÅÅ 15.80  °×²Ë 1.60  
+[2018-03-21 11:06:18,306] [1  ] [INFO ] - Price:  ÑòÈâ 29.70  Î÷ºìÊÁ 3.80  
+[2018-03-21 11:06:18,306] [1  ] [INFO ] - Price:  Å£Èâ 34.20  »¨²Ë 4.40  
+[2018-03-21 11:06:18,307] [1  ] [INFO ] - Price:  ²Ý¼¦ 18.30  Ý«Ëñ 3.00  
+[2018-03-21 11:06:18,307] [1  ] [INFO ] - Price:  Èâ¼¦ 10.00  ¿ÕÐÄ²Ë 9.00  
+[2018-03-21 11:06:18,307] [1  ] [INFO ] - Price:  »îÑ¼ 23.50  ÇÑ×Ó 4.60  
+[2018-03-21 11:06:18,308] [1  ] [INFO ] - Price:  ¼¦µ° 4.80  ²Ï¶¹ 4.20  
+[2018-03-21 11:06:18,308] [1  ] [INFO ] - Price:  Ñ¼µ° 7.70  ËÄ¼¾¶¹ 7.60  
+[2018-03-21 11:06:18,309] [1  ] [INFO ] - Price:  öãÓã 7.70  ³¤ôø¶¹ 6.40  
+[2018-03-21 11:06:18,309] [1  ] [INFO ] - Price:  öêÓã 10.70  ÜÈ²Ë 7.60  
+[2018-03-21 11:06:18,310] [1  ] [INFO ] - Price:  öýÓã 8.60  Üú°× 7.90  
+[2018-03-21 11:06:18,310] [1  ] [INFO ] - Price:  ´øÓã 23.60  »Æ¹Ï 4.50  
+[2018-03-21 11:06:18,310] [1  ] [INFO ] - Price:  ºÓÏº 64.00  ¶¬¹Ï 2.70  
+[2018-03-21 11:06:18,311] [1  ] [INFO ] - Price:  ²ÝÓã 8.80  Ë¿¹Ï 5.70  
+[2018-03-21 11:06:18,313] [1  ] [INFO ] - Price:  öðÓã 32.50  Ñó´Ð 2.80  
+[2018-03-21 11:06:18,313] [1  ] [INFO ] - Price:  ºÓÐ· 35.00  ÏÊÄ¢¹½ 8.20  
+[2018-03-21 11:06:18,314] [1  ] [INFO ] - Price:  ¼×Óã 33.40  ´óËâÍ· 6.40  
+[2018-03-21 11:06:18,314] [1  ] [INFO ] - Price:  ÇàÓã 11.80  Éú½ª 6.10  
+[2018-03-21 11:06:18,315] [1  ] [INFO ] - Price:  ÷­Ë¿ 43.30  Á«Åº 4.10  
+[2018-03-21 11:06:18,315] [1  ] [INFO ] - Price:  ¶¹¸¯ 2.00  ½ð»¨²Ë 4.30  
+[2018-03-21 11:06:18,317] [1  ] [INFO ] - Price:  °ÙÒ¶ 7.10  ±â¶¹ 6.80  
+[2018-03-21 11:06:18,317] [1  ] [INFO ] - Price:  ËØ¼¦ 6.20  ÃÀÇÛ 3.80  
+[2018-03-21 11:06:18,319] [1  ] [INFO ] - Price:  ¡¡ ¡¡ Î÷ºùÂ« 3.90  
+[2018-03-21 11:06:18,319] [1  ] [INFO ] - Price:  ¡¡ ¡¡ Î÷À¼»¨ 5.00  
+[2018-03-21 11:06:18,320] [1  ] [INFO ] - Price:  ¡¡ ¡¡ É½Ò© 6.20  
+[2018-03-21 11:06:18,320] [1  ] [INFO ] - Price:  ¡¡ ¡¡ ËâÃç 6.00  
+[2018-03-21 11:06:18,321] [1  ] [INFO ] - Price:  ¡¡ ¡¡ Éú²Ë 3.60  
+[2018-03-21 11:06:18,322] [1  ] [INFO ] - Price:  ¡¡ ¡¡ ÄÏ¹Ï 3.60  
+[2018-03-21 11:06:18,323] [1  ] [INFO ] - Price:  ¡¡ ¡¡ É½Óó 2.70  
+[2018-03-21 11:06:18,327] [1  ] [INFO ] - Crawl complete for site [http://mssz.cn/newweb/index.jsp]: Crawled [2] pages in [00:00:02.0132824]

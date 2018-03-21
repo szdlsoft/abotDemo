@@ -1,0 +1,17 @@
+D:\Learn\abot\Abot.Demo\bin\Debug\Abot.Demo.exe.config
+D:\Learn\abot\Abot.Demo\bin\Debug\Abot.Demo.exe
+D:\Learn\abot\Abot.Demo\bin\Debug\Abot.Demo.pdb
+D:\Learn\abot\Abot.Demo\bin\Debug\Abot.dll
+D:\Learn\abot\Abot.Demo\bin\Debug\log4net.dll
+D:\Learn\abot\Abot.Demo\bin\Debug\AngleSharp.dll
+D:\Learn\abot\Abot.Demo\bin\Debug\HtmlAgilityPack.dll
+D:\Learn\abot\Abot.Demo\bin\Debug\Robots.dll
+D:\Learn\abot\Abot.Demo\bin\Debug\Abot.pdb
+D:\Learn\abot\Abot.Demo\bin\Debug\Abot.xml
+D:\Learn\abot\Abot.Demo\bin\Debug\Abot.dll.config
+D:\Learn\abot\Abot.Demo\bin\Debug\log4net.xml
+D:\Learn\abot\Abot.Demo\bin\Debug\AngleSharp.xml
+D:\Learn\abot\Abot.Demo\obj\Debug\Abot.Demo.csprojResolveAssemblyReference.cache
+D:\Learn\abot\Abot.Demo\obj\Debug\Abot.Demo.csproj.CoreCompileInputs.cache
+D:\Learn\abot\Abot.Demo\obj\Debug\Abot.Demo.exe
+D:\Learn\abot\Abot.Demo\obj\Debug\Abot.Demo.pdb
